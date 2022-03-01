@@ -9,9 +9,9 @@
   "NFT_NAME": "Meeko World",
   "SYMBOL": "MW",
   "MAX_SUPPLY": 3000,
-  "WEI_COST": 0,
-  "DISPLAY_COST": 0.0,
-  "GAS_LIMIT": 95000,
+  "WEI_COST": 30000000000000000,
+  "DISPLAY_COST": 0.03,
+  "GAS_LIMIT": 110000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/meekoworld",
   "SHOW_BACKGROUND": true
